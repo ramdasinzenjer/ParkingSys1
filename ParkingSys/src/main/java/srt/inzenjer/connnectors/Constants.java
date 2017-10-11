@@ -9,8 +9,8 @@ public interface Constants {
 
     //Urls
  
-    String REGISTER_URL="https://avantzekiel.000webhostapp.com/?dir=parkingsys/mRegisterUser.php?";
-    String LOGIN_URL="https://avantzekiel.000webhostapp.com/?dir=parkingsys/mLoginUser.php?";
+    String REGISTER_URL="https://avantzekiel.000webhostapp.com/parkingsys/mRegisterUser.php?";
+    String LOGIN_URL="https://avantzekiel.000webhostapp.com/parkingsys/mLoginUser.php?";
 /*    String REQUESTLOC_URL="http://192.168.1.9/smartmeter/user_api/mLocServices.php?";
     String REQUESTPROFILE_URL="http://192.168.1.9/smartmeter/user_api/mProfilefetch.php?";
     String REQUESTTRANSPORT_URL="http://192.168.1.9/smartmeter/user_api/mRequest.php?";
